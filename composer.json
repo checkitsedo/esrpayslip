@@ -1,0 +1,14 @@
+{
+    "name": "checkitsedo/esrpayslip",
+    "description": "Laravel Swiss ESR Payment Slip with Fpdf (e.g. for Invoiceninja)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "checkitsedo",
+            "email": "info@senti.lu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
